@@ -6,9 +6,9 @@
 
 ### Mac OS X
 
-  /Users/$USER/Documents/GZDoom/Savegames/
+    /Users/$USER/Documents/GZDoom/Savegames/
 
 ### Windows
 
-  /$GZDOOM_ROOT/
+    /$GZDOOM_ROOT/
   
